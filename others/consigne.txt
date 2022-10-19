@@ -1,0 +1,41 @@
+BALISE HEAD:
+-Lier le fichier HTML avec le fichier CSS
+-Ajouter un lien pour la police Roboto
+-Changer l'interieur de la balise title et écrire : "Mon fleuriste"
+
+BALISE HEADER:
+
+-Arrière-plan de couleur gris
+
+-Un logo fleur
+-Logo fleur fait 50px de hauteur et 50px de largeur
+
+-Une liste a de deux items : Accueil et Mon Fleuriste
+-Les deux items de la liste sont des liens
+-On a enlevé les points à la liste
+-On a enlevé la ligne en dessous des liens
+
+-Utiliser flexbox pour mettre le logo fleur et la ligne en ligne et espacé 
+
+
+
+BALISE SECTION:
+
+-Arrière-plan de couleur vert
+
+-Le titre (h1) est centré
+-Le titre est tout en majuscule
+-Le titre est souligné
+
+-Mettre 3 images de fleur en ligne
+-Chaque image de fleur doit faire la même taille
+-Ajouter de l'espace entre chaque image
+-Quand je passe ma souris sur une image, il y a une bordure qui apparait
+
+
+
+BALISE FOOTER:
+
+-Arrière-plan de couleur rose
+-Quand je passe ma souris sur le footer, l'arrière-plan devient orange
+-Ecrire du texte et le mettre tout à droite
